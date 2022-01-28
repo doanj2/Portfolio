@@ -11613,7 +11613,7 @@ body {
 }
 
 .projects-section {
-  padding: 10rem 0;
+  padding: 5rem 0;
 }
 .projects-section .featured-text {
   padding: 2rem;
@@ -11704,7 +11704,8 @@ body {
 }
 
 .imgTopDiv{
-  padding-top: 0%;
+  padding-top: 5%;
+  margin-top: 5%;
 }
 
 .imgSubDiv{
@@ -11712,10 +11713,14 @@ body {
 }
 
 .usedImg{
-  position: absolute;
   bottom: 0;
   right: 0;
   
 }
 
+#portrait{
+  border-radius: 50%;
+  width: 25%;
+  padding-bottom: 7%;
+}
 
