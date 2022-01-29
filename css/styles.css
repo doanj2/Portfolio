@@ -11719,13 +11719,13 @@ body {
 }
 
 #surg{
-  height: 600px;
+  height: 100%;
   margin-right: 5px;
 }
 
 #sumo{
   float: right;
-  padding-right: 30%;
+  padding-right: 20%;
 }
 
 #portrait{
@@ -11733,3 +11733,4 @@ body {
   width: 25%;
   padding-bottom: 7%;
 }
+
