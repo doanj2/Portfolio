@@ -11718,9 +11718,14 @@ body {
   
 }
 
+#surg{
+  height: 100%;
+  margin-right: 5px;
+}
+
 #sumo{
   float: right;
-  padding-right: 10%;
+  padding-right: 20%;
 }
 
 #portrait{
